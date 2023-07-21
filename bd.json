@@ -9,35 +9,36 @@
       "id": 1
     },
     {
-      "nombre": "Karen",
-      "empresa": "codigo con karen",
-      "email": "karen@karen.com",
-      "telefono": "123456",
-      "notas": "Karen desea una REst API",
-      "id": 2
-    },
-    {
-      "nombre": "Miguel",
-      "empresa": "codigo con Miguel",
-      "email": "miguel@miguel.com",
-      "telefono": "3183284384",
-      "notas": "Nueva nota",
-      "id": 3
-    },
-    {
-      "nombre": "Pedro",
-      "empresa": "codigo con PEdro",
-      "email": "pedro@pedro.com",
-      "telefono": "928384875",
-      "id": 4
-    },
-    {
       "nombre": "Iván Desde React",
       "empresa": "codigo con Ivan",
       "email": "correo@ivan.com",
       "telefono": "109292",
       "notas": "El cliente desea un ecommerce",
       "id": 5
+    },
+    {
+      "nombre": "Sara Alejandra Tintin Cuervo",
+      "empresa": "Tintin's productions",
+      "email": "ale12@gmail.com",
+      "telefono": "3255489658",
+      "notas": "Actualización de cliente  ",
+      "id": 6
+    },
+    {
+      "nombre": "Juan Sebastian Diaz Paez ",
+      "empresa": "Drivers trip",
+      "email": "driverstrip@gmail.com",
+      "telefono": "3256547895",
+      "notas": "Cliente afiliado",
+      "id": 7
+    },
+    {
+      "nombre": "Diego Herrera",
+      "empresa": "Hotels paradise",
+      "email": "hotlesparadise@gmail.com",
+      "telefono": "3154896578",
+      "notas": "Cliente pendiente ",
+      "id": 8
     }
   ]
 }
